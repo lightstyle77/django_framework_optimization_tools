@@ -1,1 +1,0 @@
-# django_framework_optimization_tools
