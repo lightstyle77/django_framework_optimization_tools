@@ -1,0 +1,15 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: 
+ =?utf-8?b?0J/QvtC00YLQstC10YDQttC00LXQvdC40LUg0YPRh9C10YLQvdC+0Lkg0LfQsNC/?=
+ =?utf-8?b?0LjRgdC4IEFkbWluMTE=?=
+From: django@geekshop.local
+To: ya@ya.ru
+Date: Fri, 16 Jul 2021 17:15:49 -0000
+Message-ID: 
+ <162645574974.21780.14860681509422264079@89-108-102-164.cloudvps.regruhosting.ru>
+
+Для подтверждения учетной записи Admin11     на портале http://localhost:8000 перейдите по ссылке:     
+http://localhost:8000/auth/verify/ya@ya.ru/e349e2ee6083ff3b2cffa48484d296db38082e4f/
+-------------------------------------------------------------------------------
